@@ -1,0 +1,212 @@
+[
+    {
+        "questionTitle": "A bee flaps its wings per second at a rate..... ?",
+        "answers": [
+            {
+                "answerTitle": "350",
+                "point": 2
+            },
+            {
+                "answerTitle": "200",
+                "point": 0
+            },
+            {
+                "answerTitle": "100",
+                "point": 0
+            },
+            {
+                "answerTitle": "400",
+                "point": 0
+            }
+        ]
+    },
+    {
+        "questionTitle": "The scientist who invented the phone is......... ?",
+        "answers": [
+            {
+                "answerTitle": "Alexander Graham Bell",
+                "point": 2
+            },
+            {
+                "answerTitle": "Joseph Priestley",
+                "point": 0
+            },
+            {
+                "answerTitle": "Sico Rasky",
+                "point": 0
+            },
+            {
+                "answerTitle": "Wilhelm Roentgen",
+                "point": 0
+            }
+        ]
+    },
+    {
+        "questionTitle": "The duration of carrying a female elephant is up to.... ?",
+        "answers": [
+            {
+                "answerTitle": "22 month",
+                "point": 2
+            },
+            {
+                "answerTitle": "10 month",
+                "point": 0
+            },
+            {
+                "answerTitle": "11 month",
+                "point": 0
+            },
+            {
+                "answerTitle": "25 month",
+                "point": 0
+            }
+        ]
+    },
+    {
+        "questionTitle": "The largest African country by area is a country.... ?",
+        "answers": [
+            {
+                "answerTitle": "Sudan",
+                "point": 2
+            },
+            {
+                "answerTitle": "Egypt",
+                "point": 0
+            },
+            {
+                "answerTitle": "Mauritania",
+                "point": 0
+            },
+            {
+                "answerTitle": "Algeria",
+                "point": 0
+            }
+        ]
+    },
+    {
+        "questionTitle": "The gas that makes up about 75% of the sun's total mass is.... ?",
+        "answers": [
+            {
+                "answerTitle": "Hydrogen",
+                "point": 2
+            },
+            {
+                "answerTitle": "Oxygen",
+                "point": 0
+            },
+            {
+                "answerTitle": "Calcium",
+                "point": 0
+            },
+            {
+                "answerTitle": "Nitrogen",
+                "point": 0
+            }
+        ]
+    },
+    {
+        "questionTitle": "What is the European capital, which is located on the banks of the Tiber River ?",
+        "answers": [
+            {
+                "answerTitle": "Rome",
+                "point": 2
+            },
+            {
+                "answerTitle": "Paris",
+                "point": 0
+            },
+            {
+                "answerTitle": "London",
+                "point": 0
+            },
+            {
+                "answerTitle": "Madrid",
+                "point": 0
+            }
+        ]
+    },
+    {
+        "questionTitle": "The water that freezes faster when placed in the freezer is ..... ?",
+        "answers": [
+            {
+                "answerTitle": "Hot water",
+                "point": 2
+            },
+            {
+                "answerTitle": "Cold water",
+                "point": 0
+            },
+            {
+                "answerTitle": "Moderate water",
+                "point": 0
+            },
+            {
+                "answerTitle": "All",
+                "point": 0
+            }
+        ]
+    },
+    {
+        "questionTitle": "The color that the bees cannot see is the color ...?",
+        "answers": [
+            {
+                "answerTitle": "White",
+                "point": 2
+            },
+            {
+                "answerTitle": "Orange",
+                "point": 0
+            },
+            {
+                "answerTitle": "Yellow",
+                "point": 0
+            },
+            {
+                "answerTitle": "Blue",
+                "point": 0
+            }
+        ]
+    },
+    {
+        "questionTitle": "In which country was the first subway in the world opened ?",
+        "answers": [
+            {
+                "answerTitle": "England",
+                "point": 2
+            },
+            {
+                "answerTitle": "France",
+                "point": 0
+            },
+            {
+                "answerTitle": "Russia",
+                "point": 0
+            },
+            {
+                "answerTitle": "China",
+                "point": 0
+            }
+        ]
+    },
+    {
+        "questionTitle": "The first countries in the world to produce gum are...... ?",
+        "answers": [
+            {
+                "answerTitle": "Sudan",
+                "point": 2
+            },
+            {
+                "answerTitle": "Nigeria",
+                "point": 0
+            },
+            {
+                "answerTitle": "Egypt",
+                "point": 0
+            },
+            {
+                "answerTitle": "India",
+                "point": 0
+            }
+        ]
+    }
+]

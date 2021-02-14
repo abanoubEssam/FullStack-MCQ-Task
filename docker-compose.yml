@@ -1,0 +1,39 @@
+version: "3.8"
+services:
+  
+  mongodb:
+    image: 'mongo'
+    container_name: mcq-db
+    volumes: 
+      - data:/data/db
+
+
+  server:
+    container_name: mcq-server
+    build: ./server
+    ports:
+      - '3001:3001'
+    volumes: 
+      - ./server:/app
+      - /app/node_modules
+    depends_on:
+      - mongodb
+
+
+  client:
+    container_name: mcq-client
+    build: ./client
+    ports: 
+      - '3000:3000'
+    volumes: 
+      - ./client/src:/app/src
+    stdin_open: true
+    tty: true
+    depends_on: 
+      - server
+
+
+
+volumes: 
+  data:
+
