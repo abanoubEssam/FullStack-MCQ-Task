@@ -5,5 +5,5 @@ $ docker-compose up
 ```
 
 
-- FrontEnd - [FrontEnd](http://localhost:3000)
-- BackEnd - [BackEnd](http://localhost:3001)
+- FrontEnd - [LocalLink](http://localhost:3000)
+- BackEnd - [LocalLink](http://localhost:3001)
